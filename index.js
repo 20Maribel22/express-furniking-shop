@@ -12,7 +12,7 @@ import { limiter } from './middlewares/limiter.js';
 dotenv.config();
 connectDataBase();
 
-const { PORT = 3001 } = process.env;
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 app.use(cors);
