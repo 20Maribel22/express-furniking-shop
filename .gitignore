@@ -17,5 +17,4 @@ node_modules
 
 #Files
 /DataImport.js
-/utils/config.js
 /data/data.js
