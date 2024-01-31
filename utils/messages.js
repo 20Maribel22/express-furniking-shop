@@ -1,0 +1,34 @@
+export const MSG_ERR_AUTH = 'Incorrect email or password';
+export const MSG_ERR_INCORRECT_EMAIL = 'Incorrect email format';
+export const MSG_ERR_INCORRECT_URL = 'Incorrect URL';
+export const MSG_ERR_UNAUTH = 'Authorization required!';
+export const MSG_ERR_NOT_FOUND_FEEDBACK = 'No review found for the specified ID';
+export const MSG_ERR_INCORRECT_DATA = 'Wrong, invalid request';
+export const MSG_ERR_CONFLICT = 'A user with this data is already registered!';
+export const MSG_ERR_CONFLICT_FEEDBACK = 'A user with this information has already left a review!';
+export const MSG_ERR_SERVER = 'Server error';
+export const MSG_ERR_NOT_FOUND_PRODUCT = 'Product with the specified ID was not found';
+export const MSG_DELETE_PRODUCT = 'Product removed';
+export const MSG_ERR_NOT_FOUND_ORDER = 'The order with the specified ID was not found';
+export const MSG_DELETE_ORDER = 'Order deleted';
+export const MSG_ERR_NOT_FOUND_PAGE = 'Page not found';
+export const MSG_LIMITER = 'You have made too many requests, please wait and try again later';
+export const MSG_ERR_NOT_FOUND_USER = 'The user by the specified ID was not found';
+
+// export const MSG_ERR_AUTH = 'Неправильные почта или пароль';
+// export const MSG_ERR_INCORRECT_EMAIL = 'Неправильный формат email';
+// export const MSG_ERR_INCORRECT_URL = 'Некорректный URL адрес';
+// export const MSG_ERR_UNAUTH = 'Необходима авторизация!';
+// export const MSG_ERR_NOT_FOUND_USER = 'Пользователь по указанному id не найден';
+// export const MSG_ERR_NOT_FOUND_FEEDBACK = 'Отзыв по указанному id не найден';
+// export const MSG_ERR_INCORRECT_DATA = 'Неправильный, некорректный запрос';
+// export const MSG_ERR_CONFLICT = 'Пользователь с такими данными уже зарегистрирован!';
+// export const MSG_ERR_CONFLICT_FEEDBACK = 'Пользователь с такими данными уже оставил отзыв!';
+// export const MSG_ERR_SERVER = 'Ошибка на сервере';
+// export const MSG_ERR_NOT_FOUND_PRODUCT = 'Продукт с указанным id не найден';
+// export const MSG_DELETE_PRODUCT = 'Продукт удален';
+// export const MSG_ERR_NOT_FOUND_ORDER = 'Заказ с указанным id не найден';
+// export const MSG_DELETE_ORDER = 'Заказ удален';
+// export const MSG_ERR_NOT_FOUND_PAGE = 'Cтраница не найдена';
+// eslint-disable-next-line max-len
+// export const MSG_LIMITER = 'Вы делали слишком много запросов пожалуйста подождите и повторите запрос позже';
