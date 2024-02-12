@@ -1,7 +1,7 @@
 export const SECRET_CODE = 'some-secret-key';
 
 export const ALLOWED_CORS = [
-
+  'https://furniking-shop-bae5d1c00634.herokuapp.com/',
   'http://localhost:3000',
   'http://localhost:3001',
 ];
