@@ -14,7 +14,3 @@ node_modules
 .idea
 .vscode
 .env
-
-#Files
-/DataImport.js
-/data/data.js
